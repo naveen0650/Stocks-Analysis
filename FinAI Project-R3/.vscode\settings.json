@@ -1,0 +1,17 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/backend/.venv/Scripts/python.exe",
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": ["backend"],
+  "python.analysis.extraPaths": ["backend"],
+  "editor.formatOnSave": false,
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.pytest_cache": true
+  },
+  "search.exclude": {
+    "frontend/node_modules": true,
+    "frontend/dist": true,
+    "backend/.venv": true
+  },
+  "tailwindCSS.experimental.classRegex": []
+}

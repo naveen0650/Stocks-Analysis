@@ -1,0 +1,27 @@
+{
+ "sample": true,
+ "note": "Illustrative recorded-sample headlines for demo/testing only - not real news. A live news provider replaces this file behind the same contract.",
+ "symbol": "SUNPHARMA.NS",
+ "articles": [
+  {
+   "published": "2026-09-30",
+   "source": "sample-wire",
+   "headline": "Sun Pharma specialty portfolio posts strong US sales growth"
+  },
+  {
+   "published": "2026-09-27",
+   "source": "sample-wire",
+   "headline": "Regulatory approval received for new dermatology formulation"
+  },
+  {
+   "published": "2026-09-23",
+   "source": "sample-wire",
+   "headline": "Domestic formulation business beats market growth for sixth quarter"
+  },
+  {
+   "published": "2026-09-16",
+   "source": "sample-wire",
+   "headline": "US generics pricing pressure moderates, supporting margins"
+  }
+ ]
+}

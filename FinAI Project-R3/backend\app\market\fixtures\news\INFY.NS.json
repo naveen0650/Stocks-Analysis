@@ -1,0 +1,32 @@
+{
+ "sample": true,
+ "note": "Illustrative recorded-sample headlines for demo/testing only - not real news. A live news provider replaces this file behind the same contract.",
+ "symbol": "INFY.NS",
+ "articles": [
+  {
+   "published": "2026-09-29",
+   "source": "sample-wire",
+   "headline": "Infosys raises guidance after record generative AI deal wins"
+  },
+  {
+   "published": "2026-09-27",
+   "source": "sample-wire",
+   "headline": "Infosys announces strategic partnership with European cloud provider"
+  },
+  {
+   "published": "2026-09-25",
+   "source": "sample-wire",
+   "headline": "Brokerage upgraded Infosys on strong large-deal pipeline"
+  },
+  {
+   "published": "2026-09-18",
+   "source": "sample-wire",
+   "headline": "Discretionary IT spending shows signs of rebound in North America"
+  },
+  {
+   "published": "2026-09-11",
+   "source": "sample-wire",
+   "headline": "Board approves interim dividend for shareholders"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "sample": true,
+ "note": "Illustrative recorded-sample headlines for demo/testing only - not real news. A live news provider replaces this file behind the same contract.",
+ "symbol": "MARUTI.NS",
+ "articles": [
+  {
+   "published": "2026-09-29",
+   "source": "sample-wire",
+   "headline": "Maruti Suzuki SUV market share expands ahead of festive season launch"
+  },
+  {
+   "published": "2026-09-26",
+   "source": "sample-wire",
+   "headline": "Export volumes hit record high across Latin America and Africa"
+  },
+  {
+   "published": "2026-09-21",
+   "source": "sample-wire",
+   "headline": "Entry-level small car demand remains weak amid rural slowdown"
+  },
+  {
+   "published": "2026-09-14",
+   "source": "sample-wire",
+   "headline": "Softening commodity prices support operating margin expansion"
+  }
+ ]
+}

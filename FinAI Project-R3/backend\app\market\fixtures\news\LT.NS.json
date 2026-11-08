@@ -1,0 +1,27 @@
+{
+ "sample": true,
+ "note": "Illustrative recorded-sample headlines for demo/testing only - not real news. A live news provider replaces this file behind the same contract.",
+ "symbol": "LT.NS",
+ "articles": [
+  {
+   "published": "2026-09-28",
+   "source": "sample-wire",
+   "headline": "L&T wins mega hydrocarbon and renewable energy order in Middle East"
+  },
+  {
+   "published": "2026-09-25",
+   "source": "sample-wire",
+   "headline": "Order book crosses record milestone with strong infrastructure demand"
+  },
+  {
+   "published": "2026-09-19",
+   "source": "sample-wire",
+   "headline": "Brokerage maintains outperform rating on robust execution visibility"
+  },
+  {
+   "published": "2026-09-10",
+   "source": "sample-wire",
+   "headline": "Working capital discipline drives strong cash flow improvement"
+  }
+ ]
+}

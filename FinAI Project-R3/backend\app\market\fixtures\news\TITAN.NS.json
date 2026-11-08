@@ -1,0 +1,27 @@
+{
+ "sample": true,
+ "note": "Illustrative recorded-sample headlines for demo/testing only - not real news. A live news provider replaces this file behind the same contract.",
+ "symbol": "TITAN.NS",
+ "articles": [
+  {
+   "published": "2026-09-28",
+   "source": "sample-wire",
+   "headline": "Volatile gold prices pressure jewellery margins and near-term demand"
+  },
+  {
+   "published": "2026-09-25",
+   "source": "sample-wire",
+   "headline": "Brokerage downgraded Titan citing rich valuation and margin concerns"
+  },
+  {
+   "published": "2026-09-20",
+   "source": "sample-wire",
+   "headline": "Watches and wearables division posts strong festive store expansion"
+  },
+  {
+   "published": "2026-09-12",
+   "source": "sample-wire",
+   "headline": "Rising competition in lab-grown diamonds creates sector headwinds"
+  }
+ ]
+}

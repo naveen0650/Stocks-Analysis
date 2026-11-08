@@ -1,0 +1,37 @@
+{
+ "sample": true,
+ "note": "Illustrative recorded-sample headlines for demo/testing only - not real news. A live news provider replaces this file behind the same contract.",
+ "symbol": "TCS.NS",
+ "articles": [
+  {
+   "published": "2026-09-29",
+   "source": "sample-wire",
+   "headline": "TCS wins multi-year deal from European bank"
+  },
+  {
+   "published": "2026-09-25",
+   "source": "sample-wire",
+   "headline": "IT sector faces demand slowdown as US clients delay spending"
+  },
+  {
+   "published": "2026-09-22",
+   "source": "sample-wire",
+   "headline": "Brokerage downgraded TCS citing weak deal ramp-ups and pricing pressure"
+  },
+  {
+   "published": "2026-09-18",
+   "source": "sample-wire",
+   "headline": "TCS announces buyback, signals strong cash position"
+  },
+  {
+   "published": "2026-09-10",
+   "source": "sample-wire",
+   "headline": "Attrition declines for third straight quarter at TCS"
+  },
+  {
+   "published": "2026-09-02",
+   "source": "sample-wire",
+   "headline": "Analysts flag margin concerns amid wage hikes"
+  }
+ ]
+}

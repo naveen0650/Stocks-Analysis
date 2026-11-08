@@ -1,0 +1,27 @@
+{
+ "sample": true,
+ "note": "Illustrative recorded-sample headlines for demo/testing only - not real news. A live news provider replaces this file behind the same contract.",
+ "symbol": "BHARTIARTL.NS",
+ "articles": [
+  {
+   "published": "2026-09-29",
+   "source": "sample-wire",
+   "headline": "Bharti Airtel ARPU surges after tariff hike, strong 5G subscriber growth"
+  },
+  {
+   "published": "2026-09-26",
+   "source": "sample-wire",
+   "headline": "Free cash flow generation accelerates as capex intensity peaks"
+  },
+  {
+   "published": "2026-09-22",
+   "source": "sample-wire",
+   "headline": "Airtel Business wins cloud and cybersecurity order from enterprise clients"
+  },
+  {
+   "published": "2026-09-15",
+   "source": "sample-wire",
+   "headline": "Africa operations face currency headwinds despite volume growth"
+  }
+ ]
+}

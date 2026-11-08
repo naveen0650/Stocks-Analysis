@@ -1,0 +1,63 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "FinAI: backend setup (venv + deps)",
+      "type": "shell",
+      "command": "python -m venv .venv && .venv\\Scripts\\python.exe -m pip install -r requirements.txt",
+      "options": { "cwd": "${workspaceFolder}/backend" },
+      "problemMatcher": []
+    },
+    {
+      "label": "FinAI: backend seed (categories + admin)",
+      "type": "shell",
+      "command": ".venv\\Scripts\\python.exe scripts\\seed.py",
+      "options": { "cwd": "${workspaceFolder}/backend" },
+      "problemMatcher": []
+    },
+    {
+      "label": "FinAI: backend demo data",
+      "type": "shell",
+      "command": ".venv\\Scripts\\python.exe scripts\\demo_data.py",
+      "options": { "cwd": "${workspaceFolder}/backend" },
+      "problemMatcher": []
+    },
+    {
+      "label": "FinAI: backend tests",
+      "type": "shell",
+      "command": ".venv\\Scripts\\python.exe -m pytest",
+      "options": { "cwd": "${workspaceFolder}/backend" },
+      "group": "test",
+      "problemMatcher": []
+    },
+    {
+      "label": "FinAI: frontend setup (npm install)",
+      "type": "shell",
+      "command": "npm install",
+      "options": { "cwd": "${workspaceFolder}/frontend" },
+      "problemMatcher": []
+    },
+    {
+      "label": "FinAI: frontend dev server",
+      "type": "shell",
+      "command": "npm run dev",
+      "isBackground": true,
+      "options": { "cwd": "${workspaceFolder}/frontend" },
+      "problemMatcher": []
+    },
+    {
+      "label": "FinAI: docker stack up",
+      "type": "shell",
+      "command": "docker compose up --build -d",
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "FinAI: docker stack down",
+      "type": "shell",
+      "command": "docker compose down",
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    }
+  ]
+}

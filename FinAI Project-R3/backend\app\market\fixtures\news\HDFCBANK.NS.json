@@ -1,0 +1,32 @@
+{
+ "sample": true,
+ "note": "Illustrative recorded-sample headlines for demo/testing only - not real news. A live news provider replaces this file behind the same contract.",
+ "symbol": "HDFCBANK.NS",
+ "articles": [
+  {
+   "published": "2026-09-30",
+   "source": "sample-wire",
+   "headline": "HDFC Bank reports strong deposit growth, beats quarterly profit estimates"
+  },
+  {
+   "published": "2026-09-28",
+   "source": "sample-wire",
+   "headline": "Brokerage upgraded HDFC Bank to outperform as merger synergies accelerate"
+  },
+  {
+   "published": "2026-09-26",
+   "source": "sample-wire",
+   "headline": "Retail loan book expansion remains robust across tier-2 cities"
+  },
+  {
+   "published": "2026-09-24",
+   "source": "sample-wire",
+   "headline": "Analysts bullish on margin expansion in second half of fiscal year"
+  },
+  {
+   "published": "2026-09-20",
+   "source": "sample-wire",
+   "headline": "HDFC Bank launches digital SME lending platform"
+  }
+ ]
+}

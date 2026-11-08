@@ -1,0 +1,27 @@
+{
+ "sample": true,
+ "note": "Illustrative recorded-sample headlines for demo/testing only - not real news. A live news provider replaces this file behind the same contract.",
+ "symbol": "ICICIBANK.NS",
+ "articles": [
+  {
+   "published": "2026-09-28",
+   "source": "sample-wire",
+   "headline": "ICICI Bank posts strong quarterly profit, asset quality improves"
+  },
+  {
+   "published": "2026-09-25",
+   "source": "sample-wire",
+   "headline": "Analysts remain bullish on ICICI Bank retail and digital franchise"
+  },
+  {
+   "published": "2026-09-21",
+   "source": "sample-wire",
+   "headline": "Net interest margin stays resilient despite deposit rate pressure"
+  },
+  {
+   "published": "2026-09-14",
+   "source": "sample-wire",
+   "headline": "ICICI Bank expands wealth management footprint"
+  }
+ ]
+}

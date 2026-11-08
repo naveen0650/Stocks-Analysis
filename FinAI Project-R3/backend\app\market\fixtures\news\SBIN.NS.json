@@ -1,0 +1,27 @@
+{
+ "sample": true,
+ "note": "Illustrative recorded-sample headlines for demo/testing only - not real news. A live news provider replaces this file behind the same contract.",
+ "symbol": "SBIN.NS",
+ "articles": [
+  {
+   "published": "2026-09-30",
+   "source": "sample-wire",
+   "headline": "SBI posts record annual profit, credit growth beats industry average"
+  },
+  {
+   "published": "2026-09-27",
+   "source": "sample-wire",
+   "headline": "YONO digital platform user base surges past milestone"
+  },
+  {
+   "published": "2026-09-24",
+   "source": "sample-wire",
+   "headline": "Gross NPA ratio declines to multi-year low on strong recoveries"
+  },
+  {
+   "published": "2026-09-17",
+   "source": "sample-wire",
+   "headline": "SBI board approves infrastructure bond issuance for expansion"
+  }
+ ]
+}

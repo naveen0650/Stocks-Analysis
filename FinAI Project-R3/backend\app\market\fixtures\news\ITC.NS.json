@@ -1,0 +1,27 @@
+{
+ "sample": true,
+ "note": "Illustrative recorded-sample headlines for demo/testing only - not real news. A live news provider replaces this file behind the same contract.",
+ "symbol": "ITC.NS",
+ "articles": [
+  {
+   "published": "2026-09-29",
+   "source": "sample-wire",
+   "headline": "ITC FMCG segment records strong growth and margin expansion"
+  },
+  {
+   "published": "2026-09-26",
+   "source": "sample-wire",
+   "headline": "Hotel demerger unlocks value, analysts upgrade ITC to outperform"
+  },
+  {
+   "published": "2026-09-19",
+   "source": "sample-wire",
+   "headline": "Agri business exports surge on robust global demand"
+  },
+  {
+   "published": "2026-09-12",
+   "source": "sample-wire",
+   "headline": "Consistent dividend payout attracts defensive portfolio inflows"
+  }
+ ]
+}
